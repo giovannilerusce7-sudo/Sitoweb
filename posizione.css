@@ -1,0 +1,8 @@
+.contenitore {
+  display: flex;
+  align-items: center; /* Allinea verticalmente al centro */
+}
+.contenitore img {
+  float: left; /* o float: right; */
+  margin-right: 15px; /* Spazio tra immagine e testo */
+}
