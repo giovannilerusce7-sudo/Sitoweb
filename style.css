@@ -6,11 +6,16 @@ p{
     padding: 5px;
     border: 2px solid black;
     margin: 15px;
-    width: 250px;
+    width: 200px;
     height: 200px;
-    text-align: center;
+    text-align: end;
     display:flex;
     justify-content: center;
-    align-items: center;
+    align-items: end;
+}
 
+h1{
+    color:black;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
 }
