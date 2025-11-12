@@ -5,12 +5,7 @@ div{
     font-family: Georgia, 'Times New Roman', Times, serif;
     padding: 5px;
     border: 2px solid black;
-    margin: 15px;
-    height: 50px;
-    text-align: end;
-    display:flex;
-        justify-content:space-around;
-    align-items: center;
+
 }
 
 h1{
