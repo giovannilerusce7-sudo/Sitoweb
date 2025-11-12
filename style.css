@@ -14,9 +14,9 @@ h1{
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
 .container {
-  display: flex; /* Rende gli elementi figli flessibili */
-  /* Puoi aggiungere altre proprietà per il layout, come: */
-  /* justify-content: space-between; */ /* Per distribuire lo spazio tra i box */
+  display: flex;
+  flex-wrap: wrap; 
+
 }
 
 .box {
