@@ -1,13 +1,11 @@
 div{
-   background-color: white;
-   color: black;
+    background-color: white;
+    color: black;
     font-size: 20px;
     font-family: Georgia, 'Times New Roman', Times, serif;
-    padding: 100px;
+    padding: 50px;
     border: 2px solid black;
-
-
-}
+  }
 
 h1{
     color:black;
@@ -16,14 +14,12 @@ h1{
 }
 .container {
   display: flex;
-  flex-wrap: wrap; 
-  justify-content: space-around;
-
-
-}
+  flex-wrap: wrap-reverse;
+ }
 
 .box {
-  width: 300px; /* O un'altra larghezza desiderata */
-  background-color: lightblue; /* Solo per visualizzazione */
-  margin: 5px; /* Solo per visualizzazione */
+  width: 200px; 
+  height: 200px;
+  background-color: lightblue; 
+  margin: 5px; 
 }
